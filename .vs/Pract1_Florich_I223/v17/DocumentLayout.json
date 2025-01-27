@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|c:\\users\\furut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0444\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0441\u043E\u043A\u043E\u043B\u043E\u0432 \u0440.\u0441\\vs\\1\\pract1_florich_i223\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\pract1_florich_i223\\logic\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\logic\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\pract1_florich_i223\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\pract1_florich_i223\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\authwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\pract1_florich_i223\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\pract1_florich_i223\\logic\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\logic\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\pract1_florich_i223\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\pract1_florich_i223\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{34605864-CDD1-4942-9C57-6F6CBD44F897}|Pract1_Florich_I223\\Pract1_Florich_I223.csproj|solutionrelative:pract1_florich_i223\\authwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 324,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\AuthWindow.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\AuthWindow.xaml",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\AuthWindow.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\AuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T12:01:38.849Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\Logic\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:49:15.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:59:18.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\MainWindow.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-15T11:45:53.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\Logic\\Product.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\Logic\\Product.cs",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\Logic\\Product.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\Logic\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:51:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\AuthWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:14:40.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\App.xaml",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\App.xaml",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\App.xaml",
+              "RelativeToolTip": "Pract1_Florich_I223\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-17T10:07:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\furut\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0424\u043B\u0435\u0448\u043A\u0430\\main\\3 \u043A\u0443\u0440\u0441\\\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0420.\u0421\\VS\\1\\Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Pract1_Florich_I223\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:45:53.508Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 76,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
