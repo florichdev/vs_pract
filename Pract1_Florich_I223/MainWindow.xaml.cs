@@ -23,18 +23,18 @@ namespace Pract1_Florich_I223
     /// </summary>
     public partial class MainWindow : Window
     {
-        private florich_usersEntities dbContext;
+        private ShopDBEntities dbContext;
 
         public MainWindow()
         {
             InitializeComponent();
-            dbContext = new florich_usersEntities();
+            dbContext = new ShopDBEntities();
             LoadProducts();
         }
 
         private void LoadProducts()
         {
-            ProductListBox.ItemsSource = dbContext.Products.ToList();
+            ProductListBox.ItemsSource = dbContext.products.ToList();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -62,15 +62,15 @@ namespace Pract1_Florich_I223
 
                 string productDescription = DescriptionTextBox.Text;
 
-                var newProduct = new Pract1_Florich_I223.dbContext.Products
+                var newProduct = new Pract1_Florich_I223.dbContext.products
                 {
-                    name_prod = productName,
-                    price_prod = productPrice,
-                    description_prod = productDescription
+                    productname = productName,
+                    price = productPrice,
+                    description = productDescription
                 };
 
 
-                dbContext.Products.Add(newProduct);
+                dbContext.products.Add(newProduct);
                 dbContext.SaveChanges();
 
                 LoadProducts();

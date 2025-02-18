@@ -15,10 +15,10 @@ namespace Pract1_Florich_I223.dbContext
     using System.Data.Entity.Core.Objects;
     using System.Linq;
     
-    public partial class florich_usersEntities : DbContext
+    public partial class ShopDBEntities : DbContext
     {
-        public florich_usersEntities()
-            : base("name=florich_usersEntities")
+        public ShopDBEntities()
+            : base("name=ShopDBEntities")
         {
         }
     
@@ -27,10 +27,11 @@ namespace Pract1_Florich_I223.dbContext
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Products> Products { get; set; }
+        public virtual DbSet<products> products { get; set; }
+        public virtual DbSet<suppliers> suppliers { get; set; }
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
-        public virtual DbSet<Users> Users { get; set; }
-
+        public virtual DbSet<users> users { get; set; }
+    
         public virtual int sp_alterdiagram(string diagramname, Nullable<int> owner_id, Nullable<int> version, byte[] definition)
         {
             var diagramnameParameter = diagramname != null ?
@@ -86,7 +87,7 @@ namespace Pract1_Florich_I223.dbContext
             return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_dropdiagram", diagramnameParameter, owner_idParameter);
         }
     
-        public virtual int sp_helpdiagramdefinition(string diagramname, Nullable<int> owner_id)
+        public virtual ObjectResult<sp_helpdiagramdefinition_Result> sp_helpdiagramdefinition(string diagramname, Nullable<int> owner_id)
         {
             var diagramnameParameter = diagramname != null ?
                 new ObjectParameter("diagramname", diagramname) :
@@ -96,10 +97,10 @@ namespace Pract1_Florich_I223.dbContext
                 new ObjectParameter("owner_id", owner_id) :
                 new ObjectParameter("owner_id", typeof(int));
     
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_helpdiagramdefinition", diagramnameParameter, owner_idParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_helpdiagramdefinition_Result>("sp_helpdiagramdefinition", diagramnameParameter, owner_idParameter);
         }
     
-        public virtual int sp_helpdiagrams(string diagramname, Nullable<int> owner_id)
+        public virtual ObjectResult<sp_helpdiagrams_Result> sp_helpdiagrams(string diagramname, Nullable<int> owner_id)
         {
             var diagramnameParameter = diagramname != null ?
                 new ObjectParameter("diagramname", diagramname) :
@@ -109,7 +110,7 @@ namespace Pract1_Florich_I223.dbContext
                 new ObjectParameter("owner_id", owner_id) :
                 new ObjectParameter("owner_id", typeof(int));
     
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction("sp_helpdiagrams", diagramnameParameter, owner_idParameter);
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<sp_helpdiagrams_Result>("sp_helpdiagrams", diagramnameParameter, owner_idParameter);
         }
     
         public virtual int sp_renamediagram(string diagramname, Nullable<int> owner_id, string new_diagramname)

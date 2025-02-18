@@ -12,15 +12,10 @@ namespace Pract1_Florich_I223.dbContext
     using System;
     using System.Collections.Generic;
     
-    public partial class Users
+    public partial class users
     {
-        public int id { get; set; }
-        public string login_u { get; set; }
-        public string pass_u { get; set; }
-        public string email_u { get; set; }
-        public string first_name { get; set; }
-        public string last_name { get; set; }
-        public string is_active { get; set; }
-        public string role { get; set; }
+        public int userID { get; set; }
+        public string login { get; set; }
+        public string password { get; set; }
     }
 }

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dbcontext/florich_users.context.tt")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dbcontext/florich_users.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dbcontext/model1.context.tt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dbcontext/model1.tt")]
 
 

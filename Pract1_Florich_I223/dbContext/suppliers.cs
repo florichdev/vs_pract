@@ -12,14 +12,17 @@ namespace Pract1_Florich_I223.dbContext
     using System;
     using System.Collections.Generic;
     
-    public partial class products
+    public partial class suppliers
     {
-        public int productID { get; set; }
-        public string productname { get; set; }
-        public decimal price { get; set; }
-        public string description { get; set; }
-        public Nullable<int> supplierID { get; set; }
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
+        public suppliers()
+        {
+            this.products = new HashSet<products>();
+        }
     
-        public virtual suppliers suppliers { get; set; }
+        public int supplierID { get; set; }
+    
+        [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
+        public virtual ICollection<products> products { get; set; }
     }
 }

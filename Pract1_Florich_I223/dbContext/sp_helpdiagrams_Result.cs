@@ -10,16 +10,13 @@
 namespace Pract1_Florich_I223.dbContext
 {
     using System;
-    using System.Collections.Generic;
     
-    public partial class products
+    public partial class sp_helpdiagrams_Result
     {
-        public int productID { get; set; }
-        public string productname { get; set; }
-        public decimal price { get; set; }
-        public string description { get; set; }
-        public Nullable<int> supplierID { get; set; }
-    
-        public virtual suppliers suppliers { get; set; }
+        public string Database { get; set; }
+        public string Name { get; set; }
+        public int ID { get; set; }
+        public string Owner { get; set; }
+        public int OwnerID { get; set; }
     }
 }

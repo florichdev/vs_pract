@@ -20,12 +20,12 @@ namespace Pract1_Florich_I223
     public partial class AuthWindow : Window
     {
         private IAuthService _authService;
-        private florich_usersEntities dbContext;
+        private ShopDBEntities dbContext;
 
         public AuthWindow()
         {
             InitializeComponent();
-            dbContext = new florich_usersEntities();
+            dbContext = new ShopDBEntities();
             _authService = new AuthService();
         }
 
@@ -39,9 +39,6 @@ namespace Pract1_Florich_I223
             string login = tbxlogin.Text;
             string pass = tbxPass.Text;
 
-            string hashedPassword = HashPassword(pass);
-
-            var user = dbContext.Users.FirstOrDefault(u => u.login_u == login && u.pass_u == hashedPassword);
 
             if (_authService.CheckData(login,pass))
             {
@@ -52,19 +49,7 @@ namespace Pract1_Florich_I223
             {
                 MessageBox.Show("Ошибка, проверьте правильность введённых данных в полях");
             }
-        }
-        private string HashPassword(string password)
-        {
-            using (var sha256 = System.Security.Cryptography.SHA256.Create())
-            {
-                byte[] bytes = sha256.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
-                StringBuilder builder = new StringBuilder();
-                foreach (byte b in bytes)
-                {
-                    builder.Append(b.ToString("x2"));
-                }
-                return builder.ToString();
-            }
+
         }
     }
 }
