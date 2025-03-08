@@ -1,0 +1,60 @@
+﻿<Window x:Class="Pract1_Florich_I223.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pract1_Florich_I223"
+        mc:Ignorable="d"
+        Title="AuthWindow" Height="800" Width="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="41*">
+
+            </ColumnDefinition>
+            <ColumnDefinition Width="409*">
+
+            </ColumnDefinition>
+            <ColumnDefinition Width="50*">
+
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="245*"/>
+            <RowDefinition Height="62*"/>
+            <RowDefinition Height="118*"/>
+            <RowDefinition Height="62*">
+
+            </RowDefinition>
+            <RowDefinition Height="118*">
+
+            </RowDefinition>
+            <RowDefinition Height="150*">
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Grid.Column="1" Source="/Resources/key.png" RenderTransformOrigin="-0.725,0.512" HorizontalAlignment="Center" VerticalAlignment="Center" Height="210" Width="210"/>
+
+        <TextBlock Grid.Column="1" Grid.Row="1" Text="Логин" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Height="29" Width="65"/>
+
+        <TextBox  x:Name="tbxlogin" Grid.Column="1" Grid.Row="2" Margin="10,34,10,34" FontSize="16" FontWeight="Bold"/>
+
+        <TextBlock Grid.Column="1" Grid.Row="3" Text="Пароль" FontSize="22" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Height="30" Width="81"/>
+
+        <TextBox x:Name="tbxPass" Grid.Column="1" Grid.Row="4" Margin="10,32,10,32" FontWeight="Bold" FontSize="16"/>
+
+        <Button x:Name="btnOpen" Grid.Column="1" Grid.Row="5" Content="Вход" FontWeight="Bold" FontSize="24" Margin="10,41,10,40" Background="White" BorderThickness="2,2,2,2" Click="btnOpen_Click">
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="BorderBrush" Value="Blue"/>
+                    <Setter Property="BorderThickness" Value="2"/>
+                    <Setter Property="Background" Value="White"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="BorderBrush" Value="BlueViolet"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+    </Grid>
+</Window>
