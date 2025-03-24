@@ -1,0 +1,138 @@
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe.config
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.pdb
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.AssemblyReference.cache
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AuthWindow.g.cs
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\App.g.cs
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.cache
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.lref
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AuthWindow.baml
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.g.resources
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.Properties.Resources.resources
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.GenerateResource.cache
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.CoreCompileInputs.cache
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.exe
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.pdb
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\DataGrid.g.cs
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\DataGrid.baml
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe.config
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.pdb
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.AssemblyReference.cache
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AuthWindow.g.cs
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\DataGrid.g.cs
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\MainWindow.g.cs
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\App.g.cs
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.cache
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.lref
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AuthWindow.baml
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\DataGrid.baml
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\MainWindow.baml
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.g.resources
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.Properties.Resources.resources
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.GenerateResource.cache
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.CoreCompileInputs.cache
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.exe
+D:\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.pdb
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe.config
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.pdb
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.AssemblyReference.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AuthWindow.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\DataGrid.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\MainWindow.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\App.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.lref
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AuthWindow.baml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\DataGrid.baml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\MainWindow.baml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.g.resources
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.Properties.Resources.resources
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.GenerateResource.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.CoreCompileInputs.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.exe
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.pdb
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe.config
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.pdb
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\bin\Debug\EntityFramework.dll
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\bin\Debug\EntityFramework.xml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.AssemblyReference.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\AuthWindow.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\DataGrid.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\MainWindow.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\App.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_Content.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.lref
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\AuthWindow.baml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\DataGrid.baml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\MainWindow.baml
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.g.resources
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.Properties.Resources.resources
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.GenerateResource.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.CoreCompileInputs.cache
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_F.D35D3597.Up2Date
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.exe
+C:\Users\furut\OneDrive\Рабочий стол\Флешка\main\3 курс\Соколов Р.С\VS\1\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.pdb
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\AuthWindow.g.cs
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\DataGrid.g.cs
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_Content.g.cs
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.cache
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.lref
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.exe
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.pdb
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe.config
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.pdb
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\AuthWindow.baml
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\DataGrid.baml
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.g.resources
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.Properties.Resources.resources
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\vs_pract-entity\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.CopyComplete
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe.config
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.exe
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\bin\Debug\Pract1_Florich_I223.pdb
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\bin\Debug\EntityFramework.dll
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\bin\Debug\EntityFramework.xml
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.AssemblyReference.cache
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\AuthWindow.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\DataGrid.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\MainWindow.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\App.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_Content.g.cs
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.cache
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_MarkupCompile.lref
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\AuthWindow.baml
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\DataGrid.baml
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\MainWindow.baml
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.g.resources
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.Properties.Resources.resources
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.GenerateResource.cache
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.csproj.CoreCompileInputs.cache
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_F.D35D3597.Up2Date
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.exe
+C:\Users\furut\OneDrive\Рабочий стол\learnApp-auth\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223.pdb
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\EntityFramework.dll
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\EntityFramework.xml
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_Florich_I223_Content.g.cs
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\Pract1_F.D35D3597.Up2Date
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AddEditProductWindow.g.cs
+C:\Users\Student 11\source\repos\Pract1_Florich_I223\Pract1_Florich_I223\obj\Debug\AddEditProductWindow.baml
